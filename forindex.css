@@ -1,0 +1,24 @@
+﻿body{
+	font-family:"Bahnschrift Condensed";
+}
+.btn{
+	font-family:"Bahnschrift Condensed";
+}
+p{
+	font-family:"Bahnschrift Condensed";
+	text-align:justify;
+}
+h1{
+	text-align:center;
+	font-family:"Bahnschrift Condensed";
+}
+h4{
+	font-family:"Bahnschrift Condensed";
+}
+h3{
+text-transform:capitalize;
+
+}
+h5{
+	font-size:8px;
+}
